@@ -56,7 +56,7 @@ client.on("messageCreate", (message) => {
     }
 })
 
-client.login("MTA3OTQ3MzMwMTM1NDcyOTU5Mw.GpCzW6.zy3ZyRPkafWdOWhSA4ruNvFV0gCaP-DA4b5A-U");
+client.login("ur mom");
 
 
 
