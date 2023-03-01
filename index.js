@@ -57,7 +57,7 @@ client.on("messageCreate", (message) => {
 })
 
 client.login("ur mom");
-
+// instead of ur mom, just put in the token you have for the discord bot
 
 
 
